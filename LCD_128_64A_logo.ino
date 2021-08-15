@@ -1,5 +1,5 @@
 /* 
- *  Mazandaran Best Quality Persian Device Co.
+ *  Mazandaran bpqd.
  *  2021 
  *  
  *  Drive GLCD with ks108 driver by means of Arduino Due
