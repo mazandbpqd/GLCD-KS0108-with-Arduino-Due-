@@ -5,8 +5,10 @@ Drive GLCD with ks108 driver by means of Arduino Due.
 The Code was test and evaluated on Arduino Due Board. 
 
 Connections for ks0108 GLCD panels (8bit comunication):
-   GLCD    Due
-    D0----> 52
+
+    GLCD    Due
+   
+    D0----> 52    
     D1----> 50
     D2----> 48
     D3----> 46
